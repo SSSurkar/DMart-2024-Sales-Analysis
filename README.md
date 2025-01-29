@@ -31,6 +31,10 @@ This **D-Mart Sales Dashboard** is designed to analyze and visualize key sales m
 - **Data Cleaning & Analysis** – Used Excel functions for structured data visualization.  
 
 ---
+## 📎 Project Screenshots
+![Screenshot 2025-01-29 122941](https://github.com/user-attachments/assets/1e14cf99-07b1-42e4-bbbc-109f19442d4a)
+
+---
 
 ## 🔗 **Live Demo & Download**  
 📂 **Download the Excel file:** ](https://github.com/SSSurkar/DMart-2024-Sales-Analysis)  
