@@ -33,7 +33,7 @@ This **D-Mart Sales Dashboard** is designed to analyze and visualize key sales m
 ---
 
 ## 🔗 **Live Demo & Download**  
-📂 **Download the Excel file:** (https://github.com/SSSurkar/Indian-Railway-Performance-Analysis)  
+📂 **Download the Excel file:** ](https://github.com/SSSurkar/DMart-2024-Sales-Analysis)  
 
 ---
 
@@ -43,7 +43,7 @@ This project demonstrates my ability to **analyze and visualize business data** 
 ---
 
 ## 🤝 **Connect With Me**  
-🔗 LinkedIn:[ [Your LinkedIn Profile](Insert Link Here)  ](https://www.linkedin.com/in/srujan-surkar-198509245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMtonsXvmS8m%2FreeWua1vkg%3D%3D)
+🔗 LinkedIn:(https://www.linkedin.com/in/srujan-surkar-198509245?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMtonsXvmS8m%2FreeWua1vkg%3D%3D)
 📧 Email: srujansurkar114@gmail.com 
 
 🚀 **Feel free to fork, star ⭐, and explore!**  
